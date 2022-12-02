@@ -1,3 +1,3 @@
-# First steps woth GitHub
+# First steps with GitHub
 
 Getting started...
